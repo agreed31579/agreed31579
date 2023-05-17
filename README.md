@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @agreed31579
 - 👀 I’m interested in technical stuff
-- 🌱 I’m currently learning coding
-- 💞️ I’m looking to collaborate on idk
+- 🌱 I’m currently learning python
 - 📫 How to reach me agreed31579#3379
 
 <!---
